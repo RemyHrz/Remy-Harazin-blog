@@ -14,5 +14,6 @@ navbar:
 base_url: http://RemyHrz.github.io/Remy-Harazin-blog
 collections:
     posts:
+      disqus: remy-harazin-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
