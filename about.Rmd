@@ -1,8 +1,8 @@
 ---
 title: "About me"
+author: "Rémy Harazin"
 ---
+I'm Remy Harazin, owner of this blog about Biology.
+I'm a student of the first english group, my teacher is Mr Ingrid Van Lancker.
 
-
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+This is a class project for the academic year 2019-2020
