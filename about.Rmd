@@ -3,6 +3,6 @@ title: "About me"
 author: "Rémy Harazin"
 ---
 I'm Rémy Harazin, owner of this blog about Aging.
-I'm a student of the first english group, my teacher is Mr Ingrid Van Lancker.
+I'm a student of the first english group, my teacher is Ms. Ingrid Van Lancker.
 
 This is a class project for the academic year 2019-2020
