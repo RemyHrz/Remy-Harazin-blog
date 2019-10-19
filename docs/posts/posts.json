@@ -1,7 +1,24 @@
 [
   {
+    "path": "posts/2019-10-19-article1/",
+    "title": "Article 1: Scientists are decoding the genetic mechanisms of aging",
+    "description": {},
+    "author": [
+      {
+        "name": "Rémy Harazin",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-19",
+    "categories": [],
+    "preview": "posts/2019-10-19-article1/image/DNA-copy.png",
+    "last_modified": "2019-10-19T19:33:23+02:00",
+    "preview_width": 1200,
+    "preview_height": 864
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 0: Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
     "description": {},
     "author": [
       {
@@ -15,6 +32,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T17:11:41+02:00"
+    "last_modified": "2019-10-19T19:31:28+02:00"
   }
 ]

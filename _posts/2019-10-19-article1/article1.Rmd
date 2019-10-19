@@ -1,0 +1,42 @@
+---
+title: "Article 1: Scientists are decoding the genetic mechanisms of aging"
+author:
+  - name: Rémy Harazin
+date: 10-19-2019
+preview: image/DNA-copy.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![ [Credit: Marish Shutterstock](https://www.shutterstock.com/image-vector/dna-genetic-sign-elements-icons-collection-280000706?src=eYWmisWNfHkRdh1QCQLnGg-1-0) ](image/DNA-copy.png)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| screening           | scan for abnormalities         | dépistage          |
+| committed           | dedicated                      | dévoué             |
+| drilling            | boring a hole                  | percer             |
+| onset               | start                          | début              |
+| scarcity            | lack                           | manque             |
+| solely              | only                           | uniquement         |
+
+## Analysis table 
+
+|                              |                                                                                                                                                                                                          |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Mount Desert Island Biological Laboratory (Jarod A Rollins, Dan Shaffer, Santina S Snow, Pankaj Kapahi, Aric N Rogers)                                                                                                                               |
+| Published in ?               | Life Science Alliance (28 June 2019)                                                                                                                                                                                         |
+| General topic?               | Dietary restriction increase the lifespan of a worm                                                                                                                                                      |
+| Procedure/what was examined? | A dietary restriction was imposed to nematode worms (*C. elegans*). Researchers used bioinformatics to compare the regulation of genes in dietary restricted worms normal fed worms                      |
+| Conclusions/discovery?       | The dietary restriction caused a change in the regulation of genes of worms that increased their lifespan. The mechanism of aging isn't limited to genes themself but also by the way they're reagulated |
+| Remaining questions?         |                                                                                                                                                                                                          |
+
+
+source: https://www.sciencedaily.com/releases/2019/10/191010142059.htm
