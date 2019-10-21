@@ -40,4 +40,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Word count: 729
 
+[PDF](https://github.com/RemyHrz/Remy-Harazin-blog/blob/master/pdf/article%201%20highlighted.pdf)
+
 Source: https://www.sciencedaily.com/releases/2019/10/191010142059.htm
+
+
