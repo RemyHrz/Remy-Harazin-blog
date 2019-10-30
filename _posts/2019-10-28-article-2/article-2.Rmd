@@ -1,0 +1,47 @@
+---
+title: "Article 2: New cause of cell aging discovered"
+author:
+  - name: Rémy Harazin
+date: 10-28-2019
+preview: image/Bases.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![ [Credit: Genetics Generation ](https://knowgenetics.org/nucleotides-and-bases/) ](image/Bases.png)
+
+## I. Source
+
+Source of the article:
+https://www.sciencedaily.com/releases/2019/07/190725151018.htm (28/10/19)
+
+Word count: 728
+
+[PDF](url)
+
+## II. Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| Twilight            | Dusk, end of sth               | Dernière           |
+| Pathways            | Path                           | Voie               |
+| Line                | Take position                  | Recouvrir          |
+| Arise               | occur (v), result (v)          | Survenir           |
+| Sustain             | Suffer                         | Subir              |
+| Diminishing         | Decreasing                     | Qui Diminue        |
+
+## III. Analysis table 
+
+|                              |                                                                                                                                                                                |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                  | University of Southern California (Alireza Delfarah, Sydney Parrish, Jason A. Junge, Jesse Yang, Frances Seo, Si Li, John Mac, Pin Wang, Scott E. Fraser, Nicholas A. Graham.) |
+| Published in ?               | Journal of Biological Chemistry (July 5, 2019)                                                                                                                                 |
+| General topic?               | Inhibition of nucleotides production causes the cell to stop replicating                                                                                                       |
+| Procedure/what was examined? | Senescence in epithelial cells + Inhibition of nucleotide production in cell + 3D imagery                                                                                      |
+| Conclusions/discovery?       | Senescent cells don't synthesize DNA                                                                                                                                           |
+| Remaining questions ?        | How are senescent cells unique and how can we target them ?                                                                                                                    |
