@@ -35,20 +35,17 @@
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 0: Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "My english activity log",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Rémy Harazin",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-19T19:31:28+02:00"
+    "date": "2019-09-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-06T17:54:55+01:00"
   }
 ]
