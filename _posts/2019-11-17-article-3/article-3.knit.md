@@ -1,0 +1,44 @@
+---
+title: "Article 3: Cellular aging is linked to structural changes in the brain"
+author:
+  - name: Rémy Harazin
+date: 11-17-2019
+preview: image/brain.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+![ [Credit: EurekAlert ](https://www.eurekalert.org/multimedia/pub/212590.php) ](image/brain.jpg)
+
+## I. Source
+
+Source of the article: 
+https://www.sciencedaily.com/releases/2019/09/190927103248.htm (16/11/19)
+
+
+Word count:
+
+[PDF]()
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French translation             |
+| ------------------- | ------------------------------ | ------------------------------ |
+| Therefore           | as a consequence               | donc, par conséquent           |
+| Overall             | generally                      | dans l'ensemble, en général    |
+| Underwent (undergo) | to endure                      | subir (un test médical)        |
+| Underlies           | be the reason for              | sous tendre, être à la base de |
+
+## III. Analysis table
+
+|                              |                                                                                                                                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                  | Max Planck Institute for Human Cognitive and Brain Sciences (Lara M. C. Puhlmann, MSc; Sofie L. Valk, PhD; Veronika Engert, PhD; Boris C. Bernhardt, PhD; Jue Lin, PhD; Elissa S. Epel, PhD; Pascal Vrtička, PhD; Tania Singer, PhD) |
+| Published in ?               | JAMA Network (September 25, 2019)                                                                                                                                                                                                    |
+| General topic?               | Discovery of a link between two biomarkers of aging : Telomere length and brain structure                                                                                                                                            |
+| Procedure/what was examined? | Telomere length of leukocyte, cortical thickness ; MRI, DNA exctraction from blood sample and PCR ; mental training                                                                                                                                                       |
+| Conclusions/discovery?       | Telomere length and cortex thickness increase or decrease at the same time together, mental training thicken the brain but doesn't lengthen telomeres                                                                                                                                                 |
+| Remaining questions?         | What causes these changes in telomere length and brain structure  ?                                                                                                                                                                  |
