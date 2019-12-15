@@ -1,0 +1,45 @@
+---
+title: "Article 5: Slower walkers have older brains and bodies at 45"
+author:
+  - name: Rémy Harazin
+date: 12-13-2019
+preview: image/walk.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![[Credit: 	andreaobzerova](https://depositphotos.com/61715251/stock-photo-couple-walking-away-on-the.html)](image/walk.jpeg)
+
+## I. Source
+
+Source of the article: https://www.sciencedaily.com/releases/2019/10/191011112250.htm
+
+Word count: 550
+
+[PDF](https://github.com/RemyHrz/Remy-Harazin-blog/blob/master/pdf/article%205%20highlighted.pdf)
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| gait                | way of walking                 | démarche, allure   |
+| devise              | invent                         | concevoir          |
+| equally             | in the same way                | de la même manière |
+| predicted           | smth in future, foretold       | prédit             |
+| assessement         | appraisal                      | évaluation         |
+
+## III. Analysis table
+
+|                              |                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Duke University (Line Rasmussen, PhD; Avshalom Caspi, PhD; Anthony Ambler, MSc; et al.)                                         |
+| Published in ?               | JAMA Network (11 October 2019)                                                                                |
+| General topic?               | Slower walkers are aging faster than others                                                                   |
+| Procedure/what was examined? | MRI, Quiz, IQ Test ; Brain, immune system, lungs, teeth, walking speed                                        |
+| Conclusions/discovery?       | Walking speed is a marker of aging and it can be predicted in early age and during the life of an individual  |
+| Remaining questions?         |                                                                                                               |

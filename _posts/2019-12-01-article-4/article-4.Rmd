@@ -28,6 +28,7 @@ Word count: 426
 | Words from the text | Synonym/explanation in English | French translation |
 | ------------------- | ------------------------------ | ------------------ |
 | Strain              | variant of smth                | souche             |
+| Prolong             | extend                         | prolonger          |
 
 ## III. Analysis table
 
