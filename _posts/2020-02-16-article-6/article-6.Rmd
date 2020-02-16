@@ -1,0 +1,39 @@
+---
+title: "Article 6: A secreted signature of aging cells"
+author:
+  - name: Rémy Harazin
+date: 02-16-2020
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+## I. Source
+
+Source of the article: https://www.sciencedaily.com/releases/2020/01/200116141730.htm
+
+Word count: 372
+
+[PDF](https://github.com/RemyHrz/Remy-Harazin-blog/blob/master/pdf/article%206%20highlighted.pdf)
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English         | French translation |
+| ------------------- | -------------------------------------- | ------------------ |
+| drivers             | driving force (figurative)             | moteur             |
+| -fold               | having stated number of parts (suffix) | -tuple             |
+| subset              | a set within a larger set              | sous-ensemble      |
+| curated             | organised                              | organisé           |
+
+## III. Analysis table
+
+|                              |                                                                                                                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Buck Institute for Research on Aging (Nathan Basisty, Abhijit Kale, Ok Hee Jeon, Chisaka Kuehnemann, Therese Payne, Chirag Rao, Anja Holtz, Samah Shah, Vagisha Sharma, Luigi Ferrucci, Judith Campisi, Birgit Schilling) |
+| Published in ?               | PLOS Biology (16 January 2020)                                                                                                                                                                                            |
+| General topic?               | Senescent cells secrete factors that are biomarkers of aging                                                                                                                                                              |
+| Procedure/what was examined? | Senescence-associated secretory phenotype (SASP) ; Mass spectrometry, bioinformatics                                                                                                                                      |
+| Conclusions/discovery?       | Creation of a database regrouping all SASPs mights make the fight against aging easier                                                                                                                                   |
+| Remaining questions?         |                                                                                                 
