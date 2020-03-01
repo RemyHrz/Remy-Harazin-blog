@@ -17,9 +17,9 @@ When I watch something like tv shows, animes, videos, I try to watch them in Eng
 For example, these days, I'm watching Rick and Morty on Netflix, in English with English subtitles.
 I'm also watching seasonal animes in japanese, but with english subtiles.
 
-TV Show/Video
+# TV Show/Video
 
-05/11/19 Second season of the netflix serie "The end of the F***ing world", it's in english (UK) with english subtitles
+05/11/19 2nd season of "The end of the F***ing world" on netflix
 
 24/12/19 Homeland on netflix, it's a tv show about counter-terrorism in USA
 
@@ -31,7 +31,7 @@ TV Show/Video
 
 01/03/20 Youtube video about tumor in big animals
 
-Video Games 
+# Video Game 
 
 29/02/20 Bioshock 2 
 
