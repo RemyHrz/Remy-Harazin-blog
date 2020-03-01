@@ -1,0 +1,40 @@
+---
+title: "Article 7: A deep dive into cellular aging"
+author:
+  - name: Rémy Harazin
+date: 03-01-2020
+preview: image/mitochondria.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+![ [Credit: ALFRED PASIEKA](https://www.sciencephoto.com/contributor/apa/)](image/mitochondria.jpg)
+
+## I. Source
+
+Source of the article: https://www.sciencedaily.com/releases/2020/02/200220091534.htm
+
+Word count: 685
+
+[PDF](https://github.com/RemyHrz/Remy-Harazin-blog/blob/master/pdf/article%207%20highlighted.pdf)
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French translation        |
+| ------------------- | ------------------------------ | ------------------------- |
+| onslaught           | attack                         | attaque                   |
+| cope                | overcome difficulties          | surmonter                 |
+| insight             | understanding                  | aperçu                    |
+| prompts             | encourage sth to go sth        | pousser qqch à faire qqch |
+
+## III. Analysis table
+
+|                              |                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | Sanford Burnham Prebys Medical Discovery Institute (Maria Grazia Vizioli, Tianhui Liu, Karl N. Miller, Neil A. Robertson, Kathryn Gilroy, Anthony B. Lagnado, Arantxa Perez-Garcia, Christos Kiourtis, Nirmalya Dasgupta, Xue Lei, Patrick J. Kruger, Colin Nixon, William Clark, Diana Jurk, Thomas G. Bird, João F. Passos, Shelley L. Berger, Zhixun Dou, Peter D. Adams) |
+| Published in ?               | Cold Spring Harbor Laboratory Press (January 30, 2020)                                                                                                                                                                                                                                                                                                                       |
+| General topic?               | Relationship between mitochondria and senescence                                                                                                                                                                                                                                                                                                                             |
+| Procedure/what was examined? | mitochondria ; mice cells ; lungs cells ; radiation                                                                                                                                                                                                                                                                                                                          |
+| Conclusions/discovery?       |  Interruption of communication between mitochondria and nucleus might promote a healthy  aging                                                                                                                                                                                                                                                                               |
+| Remaining questions?         |                                                                                                                                                                                                                                                                                                                                                                              |
